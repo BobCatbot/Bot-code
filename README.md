@@ -2,11 +2,10 @@
 
 ### How to install
 
-in the console do
+To install all the main packages needed in the console do
 ```
 pip install -r r
 ```
-this will install all the main packages needed
 
 
 ### Bot Config
