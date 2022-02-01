@@ -12,5 +12,3 @@ On the server, they had a welcome bot and thought "That would be an amazing thin
 Then about 3-4 days later I got a response from a higher-ranked moderator saying they could recreate the bot, and omg my brain right then was like "omg someone is so amazing to recreate a bot and be able to bring bobcat back to life  !!!!" 
 
 After we decided what to do with bobcat my amazing friend "Tech" had an idea to let bobcat have commands to moderate the server, ( because at that time I had loads of bots ) this was going to help the server a lot because I could reduce the bots and have my very own bot.  So time went on for a month sorting out bobcat how he worked how he looked and we finally got to a point where we loved it.
-
-So it's the start of September and lots of big music bots were getting shut down because of YouTube personally asking them.  That's when we discussed creating our bot that plays music and this is where "Bobcat music" was born, this brings us to the present time where moments of being online we had lots of people asking to add "Bobcat music" to their server !!!
