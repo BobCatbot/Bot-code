@@ -125,12 +125,12 @@ class Dropdown(discord.ui.Select):
             
         if self.values[0] == "Animal":
             em = discord.Embed(color=v.hhelp, description=f"""
-            {pre)cat | [Usage](https://www.docs.bobcatbot.xyz/animal/cat) 
-            {pre)dog | [Usage](https://www.docs.bobcatbot.xyz/animal/dog)
-            {pre)fox | [Usage](https://www.docs.bobcatbot.xyz/animal/fox)
-            {pre)panda | [Usage](https://www.docs.bobcatbot.xyz/animal/panda)
-            {pre)bird | [Usage](https://www.docs.bobcatbot.xyz/animal/bird)
-            {pre)koala | [Usage](https://www.docs.bobcatbot.xyz/animal/koala)
+            {pre}cat | [Usage](https://www.docs.bobcatbot.xyz/animal/cat) 
+            {pre}dog | [Usage](https://www.docs.bobcatbot.xyz/animal/dog)
+            {pre}fox | [Usage](https://www.docs.bobcatbot.xyz/animal/fox)
+            {pre}panda | [Usage](https://www.docs.bobcatbot.xyz/animal/panda)
+            {pre}bird | [Usage](https://www.docs.bobcatbot.xyz/animal/bird)
+            {pre}koala | [Usage](https://www.docs.bobcatbot.xyz/animal/koala)
             """)
 
             em.set_author(icon_url=v.banner, name="Animal commands.")
