@@ -17,7 +17,6 @@ async def on_ready():
 
     await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f"bobcatbot.xyz"))
 
-
 for filename in os.listdir("./cogs"):
     if filename.endswith(".py"):
         client.load_extension(f"cogs.{filename[:-3]}")
@@ -27,3 +26,5 @@ for filename in os.listdir("./cogs/bot"):
         client.load_extension(f"cogs.bot.{filename[:-3]}")
 
 client.run(v.token)
+
+# hello github
