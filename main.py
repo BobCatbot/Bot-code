@@ -17,6 +17,7 @@ async def on_ready():
 
     await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f"bobcatbot.xyz"))
 
+# it a hello there from bobcat to the code
 
 for filename in os.listdir("./cogs"):
     if filename.endswith(".py"):
